@@ -4,8 +4,19 @@ color: whitesmoke;
 margin: 0 ;
 font-family:"Mrs Saint Delafield" "Italianno" "Parisienne" sans-serif serif;
 }
+<<<<<<< Updated upstream
 html, body {
     cursor: url('image/shipCursor.cur'), auto;
+=======
+html {
+  background: url(image/bg1.jpg) no-repeat center center fixed;
+  /* background: url(image/bg2.jpg) no-repeat center center scroll; */
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    cursor: pointer, auto;
+>>>>>>> Stashed changes
 }
 /* .container{
   position: relative;
